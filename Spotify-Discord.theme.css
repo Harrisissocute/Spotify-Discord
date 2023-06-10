@@ -2,8 +2,8 @@
  * @name Spotify Discord
  * @version 1.5.0
  * @description Combine Discord and Spotify into one
- * @author CapnKitten
- * 
+* @作者CapnKitten
+*
  * @website http://github.com/CapnKitten
  * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
  * @donate https://paypal.me/capnkitten
@@ -18,7 +18,7 @@
 	--accent-rgb: 29,185,84;
 	--accent-text-color: #fff; /*	-	*/
 
-	--chat-color: #121212;
+	--chat-color: #ffffff;
 	--chat-box-color: #272727;
 	--sidebar-color: #000;
 	--sidebar-panel: #090909; /*	-	*/
